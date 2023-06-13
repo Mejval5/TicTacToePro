@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f55a3ed52408004ba29fa6feb52b943, type: 3}
+  m_Name: TTTTile
+  m_EditorClassIdentifier: 
+  amountToPool: 36
+  objectToPool: {fileID: 686873554625550745, guid: 7494e04a54c61f349ad27dbe34eda699,
+    type: 3}
+  shouldExpand: 1

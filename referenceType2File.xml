@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>ddbcd0c2adf7a484d871929b71254bdf</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-03-01T19:38:37.4387596+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>28f71fe74c53d414eac38ca1ef964968</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-03-01T19:38:37.4480619+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>693c3fe55b274ac4996f8c235ae81bc0</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-03-01T19:38:37.4565666+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6721d3de98f1c67459cec6552c412a8b</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-03-01T19:38:37.465584+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02ce0ba89ee596541a55f577980a3f34</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-03-01T19:38:37.4741155+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0597a653590d8748939fa57fe1a793a</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-03-01T19:38:37.4908012+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1def6071cb4a49e45b3b16cd56100112</guid>
+    <fileName>Assets/Scripts/BGGenerator.cs</fileName>
+    <timeStamp>2023-03-01T17:54:02.9525279+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>613c51c138887cd40b2228275ceed327</guid>
+    <fileName>Assets/Scripts/ButtonDrawer.cs</fileName>
+    <timeStamp>2023-03-01T17:27:07.44498+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>62834711a87f3e741816d2c88dcd5a38</guid>
+    <fileName>Assets/Scripts/ChangeUserIDScreen.cs</fileName>
+    <timeStamp>2023-03-01T19:58:28.5828265+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f0b1d2f15aa61f45b450407bdc5f7ea</guid>
+    <fileName>Assets/Scripts/ConnectionLostScreen.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.4996045+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e5f8566f072a09e4e8bdeae89d90def9</guid>
+    <fileName>Assets/Scripts/Cube2048.cs</fileName>
+    <timeStamp>2023-03-01T19:59:50.4594244+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2898a9b7f7835594287e62236dbb749b</guid>
+    <fileName>Assets/Scripts/Extensions.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8294397+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4faf46d9ae41f1c46892997a804c20af</guid>
+    <fileName>Assets/Scripts/FastBloom.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8191213+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b7299a9a24e3e2439c774b0980b0ab6</guid>
+    <fileName>Assets/Scripts/FireBaseClass.cs</fileName>
+    <timeStamp>2023-03-01T16:48:40.9738123+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>14c538f93728cab46b191c270936d78a</guid>
+    <fileName>Assets/Scripts/FollowCanvasVisibility.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8294397+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d2d3a0d960d49a43966af1cd03001a2</guid>
+    <fileName>Assets/Scripts/Game2048.cs</fileName>
+    <timeStamp>2023-03-01T18:34:30.9487076+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d7f792470d2d17e459894ffa81a486ff</guid>
+    <fileName>Assets/Scripts/GameBoard.cs</fileName>
+    <timeStamp>2023-03-01T19:34:58.7988226+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4ee71fa0b75cc2440892f564383d320d</guid>
+    <fileName>Assets/Scripts/GameModeManager.cs</fileName>
+    <timeStamp>2023-03-01T18:13:43.7801975+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b63ae98a60b5e6a46a39b39113d91713</guid>
+    <fileName>Assets/Scripts/GameScreen.cs</fileName>
+    <timeStamp>2023-03-01T18:23:07.8393644+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13f67ee276eeb4246a3c894fff3b8f29</guid>
+    <fileName>Assets/Scripts/GameScreenGO.cs</fileName>
+    <timeStamp>2023-03-01T17:56:04.1989797+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bdf29b33b103ab24198c9db0f67fc76c</guid>
+    <fileName>Assets/Scripts/GameSelector.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.5023218+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>664bf2a4fd8749c4c87a8f92c1a075e9</guid>
+    <fileName>Assets/Scripts/GridButton.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.4907621+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48b92bdfa20c1104a8bc16a68a0266f4</guid>
+    <fileName>Assets/Scripts/HelperMethods.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8243834+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46b3b1796dd4ceb44bdaee5f6b3739b8</guid>
+    <fileName>Assets/Scripts/Interaction2048.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.5028946+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4048cc1b0989d4a4fa3ab6910312e28e</guid>
+    <fileName>Assets/Scripts/InterstitialDefault.cs</fileName>
+    <timeStamp>2023-03-01T16:51:41.101071+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>009906a502b165647a9a20b8558bc8a1</guid>
+    <fileName>Assets/Scripts/IntroScreen.cs</fileName>
+    <timeStamp>2023-03-01T16:49:01.4211235+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7062fecda700ad42bd6231d5cfacbb6</guid>
+    <fileName>Assets/Scripts/JuicyButton.cs</fileName>
+    <timeStamp>2023-03-01T18:34:19.3796204+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7904abb77d60fa04183e7cdcdaf08776</guid>
+    <fileName>Assets/Scripts/JuicyToggle.cs</fileName>
+    <timeStamp>2023-03-01T18:34:08.0118922+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ac8bcebe2d5fbe0429a6b9ae5c11029a</guid>
+    <fileName>Assets/Scripts/LanguagesScreen.cs</fileName>
+    <timeStamp>2023-03-01T19:25:29.1523568+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ae373c684781ac4c981a437387d065d</guid>
+    <fileName>Assets/Scripts/Line.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8252388+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4ea737d01ce21a4597668d7cd4f8076</guid>
+    <fileName>Assets/Scripts/LineBoard.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8259002+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f22e7cb9303372941b4e40fa231f7234</guid>
+    <fileName>Assets/Scripts/LineTile.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8266004+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7e45c6d2ed240b4392a1963eabd7fd3</guid>
+    <fileName>Assets/Scripts/LocalUser.cs</fileName>
+    <timeStamp>2023-03-01T19:24:02.2201376+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>72470b753bac54443a2e62e28c8c4e03</guid>
+    <fileName>Assets/Scripts/Mark.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8171104+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f1d0c869adcbad64e82d629945cf1dca</guid>
+    <fileName>Assets/Scripts/MiniMaxEpic.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8181143+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5385929117159004094c9dc764eec93c</guid>
+    <fileName>Assets/Scripts/NameGenerator.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8284416+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b47ec152770b9d14fa292b441634eb48</guid>
+    <fileName>Assets/Scripts/OnlineManager.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.5039897+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>82ac264cb264281408b0276f9296ea35</guid>
+    <fileName>Assets/Scripts/OnTouch.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8201206+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>41cbdd67a8a08b64b9e20b30c51cd0bb</guid>
+    <fileName>Assets/Scripts/ParticlesFollowCanvasVisibility.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.495982+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2492ab1e3a2906f4dbe196c9788359e8</guid>
+    <fileName>Assets/Scripts/PerformanceManager.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.4916595+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4f73dde5537a79c4ebc1f2eb6020ddd9</guid>
+    <fileName>Assets/Scripts/PlayReviewManager.cs</fileName>
+    <timeStamp>2023-03-01T16:46:11.0114599+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c3a60f8fbb449048b98d29d710557b9</guid>
+    <fileName>Assets/Scripts/RandomBounce.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.5053886+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a0064e7abdb8e9840b7b1b56314f0e45</guid>
+    <fileName>Assets/Scripts/RewardedDefault.cs</fileName>
+    <timeStamp>2023-03-01T16:51:12.9810179+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c97afc556caea1c44969477eb7ddec74</guid>
+    <fileName>Assets/Scripts/SafeArea.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8211238+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b89cfac53020e548bc78060aa3e2080</guid>
+    <fileName>Assets/Scripts/ScaleConnectors.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.5063109+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cba731811e1f31a4fa32e41ed93a1bfd</guid>
+    <fileName>Assets/Scripts/ScreenManager.cs</fileName>
+    <timeStamp>2023-03-01T19:58:28.00277+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fdd51c7fdb38dde4f9810846d4a0635a</guid>
+    <fileName>Assets/Scripts/ScreenSizeBreakpoint.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.4869858+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b406cb38f4495dc4484da9c24c41ed29</guid>
+    <fileName>Assets/Scripts/ScrollRectGravity.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8221225+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ea5600979a934f48a333f6a9e7cf6cb</guid>
+    <fileName>Assets/Scripts/Settings2048.cs</fileName>
+    <timeStamp>2023-03-01T18:25:43.6538826+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15d9144febe1e7747b527de8612a4bc7</guid>
+    <fileName>Assets/Scripts/SettingsScreen.cs</fileName>
+    <timeStamp>2023-03-01T19:15:03.5799913+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b521938bb770ab498107e2f1f4a2833</guid>
+    <fileName>Assets/Scripts/SoundEffectPlayer.cs</fileName>
+    <timeStamp>2023-03-01T18:34:40.21947+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>08af45d82ddcf2142a8028e5aebef6d6</guid>
+    <fileName>Assets/Scripts/SoundManager.cs</fileName>
+    <timeStamp>2023-03-01T18:33:51.8354476+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>094912ab47550914d93a58449d1f9fc3</guid>
+    <fileName>Assets/Scripts/TicTacToeGameSelect.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8319395+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6abf17b7c67a67a4c9f267ebfd6bfcb0</guid>
+    <fileName>Assets/Scripts/TicTacToeManager.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8186204+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35ec48e1cc6045d44bd1960cc21df6de</guid>
+    <fileName>Assets/Scripts/TTTAI.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8289403+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1863433e915cccb4bb02796195f70b07</guid>
+    <fileName>Assets/Scripts/TTTGameMode.cs</fileName>
+    <timeStamp>2023-03-01T19:15:11.8669977+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d1ece2d45dbfa444c97578625ebe1498</guid>
+    <fileName>Assets/Scripts/TTTGrid.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.489791+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>77d08244ff4acba4e99ba7f7d96dc26d</guid>
+    <fileName>Assets/Scripts/TTTPowerups.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.5073164+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5505aee41ea85424b9d6c435aed92dc1</guid>
+    <fileName>Assets/Scripts/TTTWinVisualizer.cs</fileName>
+    <timeStamp>2023-03-01T18:33:51.4911506+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1ef33f638642bba4fb472c7a588ce5e4</guid>
+    <fileName>Assets/Scripts/VibrationsManager.cs</fileName>
+    <timeStamp>2023-02-27T19:12:21.8289403+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>304985e474ed95e479b5083d36c2681c</guid>
+    <fileName>Assets/Scripts/VisualizeGaussDistribution.cs</fileName>
+    <timeStamp>2023-02-27T19:12:19.4907621+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e5f3ba6eaaa9bd4e9d23295ca2a54e0</guid>
+    <fileName>Assets/Art/TestingShit/ChangeImage.cs</fileName>
+    <timeStamp>2023-02-27T19:12:24.1764925+01:00</timeStamp>
+    <typeFullName>
+      <string>ChangeImage</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2327546022bcd4c43ba77ded0e5ee205</guid>
+    <fileName>Assets/Scripts/Notifications/NotificationManager.cs</fileName>
+    <timeStamp>2023-02-27T19:12:32.2583082+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9080dd0ed5160d44eb0e11d470f78b4f</guid>
+    <fileName>Assets/Scripts/Notifications/NotificationsSettings.cs</fileName>
+    <timeStamp>2023-03-01T19:07:55.3825384+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7dcf280a50a709b48b16452a2e1f0495</guid>
+    <fileName>Assets/Scripts/Pooling/ObjectPooler.cs</fileName>
+    <timeStamp>2023-03-01T18:43:11.7545829+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4f55a3ed52408004ba29fa6feb52b943</guid>
+    <fileName>Assets/Scripts/Pooling/PooledObject.cs</fileName>
+    <timeStamp>2023-02-27T19:12:32.2554314+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>185af26b60453e24db6c59ad927ec265</guid>
+    <fileName>Assets/Scripts/Pooling/SceneObjects.cs</fileName>
+    <timeStamp>2023-02-27T19:12:32.2554314+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a00128818eda43dfaa959b83527b255</guid>
+    <fileName>Assets/Art/GUI PRO Kit - Casual Game/Scripts/PanelCasualGame.cs</fileName>
+    <timeStamp>2023-02-27T19:12:36.8925243+01:00</timeStamp>
+    <typeFullName>
+      <string>LayerLab.CasualGame.PanelCasualGame</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf55aa2c0d7914b348b9d193f622141c</guid>
+    <fileName>Assets/Art/GUI PRO Kit - Casual Game/Scripts/PanelControlCasualGame.cs</fileName>
+    <timeStamp>2023-02-27T19:12:36.8931284+01:00</timeStamp>
+    <typeFullName>
+      <string>LayerLab.CasualGame.PanelControlCasualGame</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>022f88edfdfa44b65afcefde3c9d854e</guid>
+    <fileName>Assets/Art/GUI PRO Kit - Casual Game/Extensions/UIParticle/UIParticleSystem.cs</fileName>
+    <timeStamp>2023-02-27T19:12:37.5515764+01:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.UI.Extensions.CasualGame.UIParticleSystem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
