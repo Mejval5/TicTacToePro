@@ -8,7 +8,7 @@ namespace TicTacToePro
 {
 	public class LocalUser : MonoBehaviour
 	{
-		public string USER_DATA_NAME = "SquidSave";
+		public string USER_DATA_NAME = "TTTSave";
 		public static string PersistentDataPath;
 
 		public LocalUserData SavedData;
